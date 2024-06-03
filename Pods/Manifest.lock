@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (5.9.1)
+  - OpenAIKit (1.9.3)
+  - SwiftyJSON (5.0.2)
+
+DEPENDENCIES:
+  - Alamofire
+  - OpenAIKit
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - OpenAIKit
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: f36a35757af4587d8e4f4bfa223ad10be2422b8c
+  OpenAIKit: 211dc8c93254c4472e62ac8129a94e4433c1ab88
+  SwiftyJSON: f5b1bf1cd8dd53cd25887ac0eabcfd92301c6a5a
+
+PODFILE CHECKSUM: 419078a8e170dd2329f1f31f5a5f754483b9260f
+
+COCOAPODS: 1.15.2
